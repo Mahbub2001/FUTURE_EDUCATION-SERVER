@@ -1,0 +1,46 @@
+[
+    {
+        "id":"01",
+        "name":"Jessica Methews",
+        "course":"Web Development",
+        "description":"I am satisfied with the training given by Future Education. During training, the faculty was able to clear my doubts regarding design process followed in the industry and provide real life examples",
+        "img":"https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png"
+    },
+    {
+        "id":"02",
+        "name":"Angelo Methews",
+        "course":"App Development",
+        "description":"I am satisfied with the training and training faculty.It is well designed course with practical orientation",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU"
+    },
+    {
+        "id":"03",
+        "name":"Jessica Methews",
+        "course":"Cyber Security",
+        "description":"I am satisfied with the training given by Future Education. During training, the faculty was able to clear my doubts regarding design process followed in the industry and provide real life examples",
+        "img":"https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png"
+    },
+    {
+        "id":"04",
+        "name":"Angelo Methews",
+        "course":"Web Development",
+        "description":"I am satisfied with the training and training faculty.It is well designed course with practical orientation",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU"
+    },
+    {
+        "id":"05",
+        "name":"Jessica Methews",
+        "course":"Web Development",
+        "description":"I am satisfied with the training given by Future Education. During training, the faculty was able to clear my doubts regarding design process followed in the industry and provide real life examples",
+        "img":"https://dl.memuplay.com/new_market/img/com.vicman.newprofilepic.icon.2022-06-07-21-33-07.png"
+    },
+    {
+        "id":"06",
+        "name":"Angelo Methews",
+        "course":"App Development",
+        "description":"I am satisfied with the training and training faculty.It is well designed course with practical orientation",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU"
+    }
+]
+
+

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "01",
+        "course_name": "Web development",
+        "date": "10/10/2022",
+        "hours": "90",
+        "details":"This course is designed for professional. You can learn HTML, CSS,JAVASCRIPT. Another you can learn some kinds of css frameworks like Bootstrap,Tailwind. You will able to learn javascript library React js. Otherwise we we will give you a short brief about Angular. For backend develop you will learn Node js(Express Js), Firebase Authentication, Mongo DB, Django. You will get 24hrs support in this course.",
+        "sub_details":"Anyone who is curious about programming Entrepreneurs.Those looking for a career change.Serious coders & hobbyists.Students & teenagers.Anyone who wants to learn web development",
+        "img":"https://i.ibb.co/S3GtLpT/web-developement.jpg",
+        "instructor":"Jessica",
+        "price":"80"
+      },
+      {
+        "id": "02",
+        "course_name": "Competitive Programming",
+        "date": "15/10/2022",
+        "hours": "70",
+        "details":"Math for Programming.Introduction to Programming Language.Problem Solving Part-I.Basic Data Structures.Problem Solving Part-II.Introduction to Algorithms. Problem Solving Part-II.Object-Oriented Programming and Python.Database Management.Server, Deploy, and Cloud Computing.Final Projects",  
+        "sub_details":"If you are looking for a complete learning journey that involves content learning of data structures and Competitive Programming along with other supports such as placement preparation, good profile creating, resume review, grabbing additional skills required apart from main content etc, then we'll refer you to go for the Premium plan. If you already know data structures and want to learn Competitive Programming with other supports like placement then go for the Pro plan. And If you want just data structures and Competitive Programming without any support then go for the Standard plan. If you feel that you just want to learn Competitive Programming and you already know data structures and don't need any kind of support from us then go for the Basic plan.",
+        "img":"https://i.ibb.co/4Y6sbjq/competitive.png",
+        "instructor":"Wilson",
+        "price":"90"
+      },
+      {
+        "id": "03",
+        "course_name": "App Development",
+        "date": "10/10/2022",
+        "hours": "80",
+        "details":"App Development refers to the creation of computer applications for use on mobile devices such as tablets, smartphones and smart watches. Mobile device features such as cameras, motion and location awareness can be used to create unique and inventive mobile-only applications for things such as taxi and bike sharing.",
+        "sub_details":"With our courses in app development, you will have the chance to learn: How to develop mobile applications with free online courses from top universities and organizations.The fundamentals of the app development process.How to create an app, including how apps work, their basic components, and what is involved in app design and development.If the app development field is something you are considering as a career, then an advanced program such as the MicroMasters in Android app development may be right for you. This 5-course, in-depth program will get you on a path to a career as an Android developer with hands-on experience designing and building your own app.",
+        "img":"https://i.ibb.co/RSn9q8G/app-developing.jpg",
+        "instructor":"Catherine",
+        "price":"90"
+      },
+      {
+        "id": "04",
+        "course_name": "Graphics & Web Design",
+        "date": "08/10/2022",
+        "hours": "60",
+        "details":"The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design,website design,UI/UX",
+        "sub_details":"Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skillsUnderstand and learn the essential tools and capabilities of Adobe Photoshop, Illustrator and InDesign Create logos and branding packages for potential clients Learn photo editing and manipulation in Adobe Photoshop. Master the pen tool, shape builder tool and other essential vector design tools in Adobe Illustrator.How to create editorial spreads and magazine layouts using Adobe InDesign Understand solid logo design and ad design principles to create compelling campaigns and logos. Work through the entire package design process. Learn non-destructive editing techniques in Adobe Photoshop.Work through an event flyer design to understand strong type hierarchy, balance and overall design layout",
+        "img":"https://i.ibb.co/Fgh5Y2Q/graphics.png",
+        "instructor":"Albert",
+        "price":"75"
+      },
+      {
+        "id": "05",
+        "course_name": "Bussiness & Management",
+        "date": "01/11/2022",
+        "hours": "90",
+        "details":"Learn Business Model Canvas, Business Strategy and Business Management Fundamentals to Grow any Business",
+        "sub_details":"Business Landscape and Market.Core Value Propositions.Business Model Canvas.Projects vs Operations.Money in Business - Inventory, Overheads & Capital Culture in Organisation.Pre-requisite Checklists to Team Building.Incentives - Carrot and the Stick.Organisation Structure.Key Performance Indicators.Recruiting right Talent.Evolution of your Role as Manager or Owner.Types of Role for Entrepreneur.Business Growth: Franchising.Business Growth: Horizontal and Vertical Integration",
+        "img":"https://i.ibb.co/h9Nrgnh/image5.png",
+        "instructor":"Jhonson",
+        "price":"75"
+      },
+      {
+        "id": "06",
+        "course_name": "Social Media Management",
+        "date": "10/11/2022",
+        "hours": "75",
+        "details":"MASTER online marketing on Twitter, Pinterest, Instagram, YouTube, Facebook, Google and more ad platforms! Coursenvy ®",
+        "sub_details":"Understand everything about Social Media Marketing!.Create highly optimized and high quality paid ads on all Social Media platforms.Learn Instagram.Marketing A-Z and how to monetize the social platform.Learn Twitter Marketing strategies for LASER focused ads.MASTER YouTube marketing, including: layout, content creation, and video ads!.Optimize your LinkedIn profile and use LinkedIn ads to grow your business.Use Web 2.0 blogs to further expand your reach with SEO and content marketing.Learn social media marketing posting automation via IFTTT.",
+        "img":"https://i.ibb.co/1sSKy08/image6.png",
+        "instructor":"Abdullah",
+        "price":"90"
+      },
+      {
+        "id": "07",
+        "course_name": "Marketing Communication",
+        "date": "05/11/2022",
+        "hours": "80",
+        "details":"Communication Skills for Persuasion, Assertiveness and All Business Communication Needs.Promotional tools that can help you attract customers",
+        "sub_details":"What is Communication? What are the components of communication? What are the Strategic Goals of a Marketing Communication? What is Integrated Marketing Communication (IMC)? What is a Promotion Mix? Understanding Advertising. Understanding Sales Promotion. Understanding Public Relation. Understanding Direct & Digital Marketing. Understanding Personal Selling",
+        "img":"https://i.ibb.co/QPnby53/images7.jpg",
+        "instructor":"Henry",
+        "price":"Free"
+      },
+      {
+        "id": "08",
+        "course_name": "Cyber Security",
+        "date": "15/11/2022",
+        "hours": "50",
+        "details":"Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC. A complete course for learning cyber security",
+        "sub_details":"An advanced practical skillset in defeating all online threats - advanced hackers, trackers, malware and all Internet nastiness including mitigating government spying and mass surveillance.Start a career in cyber security. Become a cyber security specialist.The very latest up-to-date information and methods.We cover operating system security, privacy, and patching - On Windows 7, Windows 8, Windows 10, MacOS and Linux.Explore the threat landscape - Darknets, dark markets, zero day vulnerabilities, exploit kits, malware, phishing and much more.You will master encryption in an easy to follow crash course.You will learn about nation state secret tracking and hacking infrastructure.",
+        "img":"https://i.ibb.co/c3XTGH9/cybersecurity-blog-img.jpg",
+        "instructor":"Robert",
+        "price":"80"
+      },
+      {
+        "id": "09",
+        "course_name": "Advance English",
+        "date": "20/11/2022",
+        "hours": "75",
+        "details":"The Complete English Language Course: English grammar, English speaking, and writing. British and American English.",
+        "sub_details":"Learn everything about English grammar, English speaking, and English writing.Use perfect English grammar in real conversations.Get high scores for English grammar exams like A1, A2, B1, B2, C1, TOEFL, IELTS, and TOEIC.Upgrade your speaking, listening, and writing with better English grammar.Learn an American or British accent.Master English writing with English punctuation and sentence structure section.Learn to speak about 27 different daily topics.",
+        "img":"https://i.ibb.co/LSYxqFR/image2.png",
+        "instructor":"Holland",
+        "price":"50"
+      },
+      {
+        "id": "10",
+        "course_name": "Descrete Mathematics",
+        "date": "17/11/2022",
+        "hours": "85",
+        "details":"Master Discrete Math for Computer Science and Mathematics Students. Cover all the topics that related with descrete mathematics",
+        "sub_details":"You will learn and develop the ability to think, read and write abstractly and Mathematically.You will learn the fundamentals of Set Theory including set builder notation, and set operations and properties.You will learn tautologies, contradictions, De Morgan's Laws in Logic, logical equivalence, and formulating quantified statements.You will lear how to create truth tables and tell the falsehood and truthfulness of a compound statements.You will know how to write, read and prove Mathematical statements using a variety of methods.You will understand boolean expressions, black boxes, logical gates and digital circuits.",
+        "img":"https://i.ibb.co/GsLXYhR/descrete-math.jpg",
+        "instructor":"Mark",
+        "price":"80"
+      }
+
+
+]
